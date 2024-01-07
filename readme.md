@@ -1,6 +1,6 @@
 # Cyber-Crime-Records-Management-System
-#It's a websit for complaining the cyber crime in online also storing the criminal records.
-#FrontEnd - Html and Css
-#Backend - php
-#Database - Mysql(sql)
-#For any queries you can connect me on social media -https://linktr.ee/shaileshsrinivas
+It's a website for online complaining about cybercrime and storing criminal records. <br>
+FrontEnd - HTML and CSS <br>
+Backend - php <br>
+Database - Mysql(SQL) <br>
+For any queries you can contact me on social media -https://linktr.ee/shaileshsrinivas <br>
